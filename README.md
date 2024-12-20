@@ -72,6 +72,7 @@ endmodule
 
 
 **Output:**
+
 ![Screenshot 2024-12-20 103833](https://github.com/user-attachments/assets/ee260b50-6547-4a9f-9907-cc3c806e2050)
 
 **Result:**
